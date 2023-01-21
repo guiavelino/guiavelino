@@ -8,6 +8,6 @@ Seja bem vindo! aqui você pode verificar meus projetos e a minha evolução con
 
 <br />
 
-<img alt="Guilherme Avelino's github stats" width="100%" src="https://github-readme-stats.vercel.app/api?username=guiavelino&show_icons=true&theme=radical" />
+<!-- <img alt="Guilherme Avelino's github stats" width="100%" src="https://github-readme-stats.vercel.app/api?username=guiavelino&show_icons=true&theme=radical" /> -->
 
 
