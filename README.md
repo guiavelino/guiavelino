@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-  Me chamo Guilherme Avelino, sou um intusiasta e apaixonado por tecnologia. 
+  Me chamo Guilherme Avelino, sou um entusiasta e apaixonado por tecnologia. 
   <br />
   Aqui você pode verificar meus projetos e a minha evolução constante em busca do aperfeiçoamento profissional.🏆 
 </p>
