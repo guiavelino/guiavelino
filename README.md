@@ -1,11 +1,11 @@
-<h1 align="left">Olá, como vai?</h1>
+<h1 align="left">Hello, how are you?</h1>
 
 ###
 
 <p align="left">
-  Me chamo Guilherme Avelino, sou um entusiasta e apaixonado por tecnologia. 
+  My name is Guilherme Avelino, I am an enthusiast and passionate about technology.
   <br />
-  Aqui você pode verificar meus projetos e a minha evolução constante em busca do aperfeiçoamento profissional.🏆 
+  Here you can check my projects and my constant evolution in search of professional improvement.🏆
 </p>
 <br />
 
@@ -33,7 +33,7 @@
 </div>
 <br />
 
-<h2 align="left">🌐 Mídias Socias</h2>
+<h2 align="left">🌐 Social media</h2>
 
 ###
 
